@@ -1,3 +1,3 @@
 # myrepo
 <br>
-my first repository
+my first repository github
